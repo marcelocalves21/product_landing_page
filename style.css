@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+
+.page {
+    width: 80vw;
+    height: 100vh;
+    margin: auto;
+    background-color: white;
+}
+.header {
+    display: flex;
+    width: 100%;
+}
+
+.logo {
+    width: 60%;
+}
+
+.main_menu {
+    width: 40%;
+    display: flex;
+}
+
+.content {
+    display: flex;
+}
+
+.product_images {
+    display: grid;
+}
+
+#first {
+    width: 100%;
+}
+
+#second {
+    width: 33%;
+}
+
+#third {
+    width: 33%;
+}
+
+#fourth {
+    width: 33%;
+}
